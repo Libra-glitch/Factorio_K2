@@ -10,17 +10,13 @@ $releaseUrl = "https://api.github.com/repos/$repoOwner/$repoName/releases/tags/$
 Write-Host "Recupero informazioni sulla release $tag..."
 $release = Invoke-RestMethod -Uri $releaseUrl
 
-# Crea cartella per gli asset
-$assetsFolder = "release_assets"
-New-Item -ItemType Directory -Force -Path $assetsFolder | Out-Null
-
-# Scarica ogni asset
+# Scarica ogni asset usando curl.exe (massima velocità)
 foreach ($asset in $release.assets) {
     $fileName = $asset.name
     $downloadUrl = $asset.browser_download_url
 
     Write-Host "Scarico: $fileName"
-    Invoke-WebRequest -Uri $downloadUrl -OutFile "$assetsFolder\$fileName"
+    curl.exe -L $downloadUrl -o $fileName
 }
 
-Write-Host "Download completato. File salvati in: $assetsFolder"
+Write-Host "Download completato. File salvati nella cartella corrente."
