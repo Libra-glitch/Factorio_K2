@@ -1,0 +1,226 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signal-transmission",
+      "enabled": true
+    },
+    
+    {
+      "name": "AircraftRealism",
+      "enabled": true
+    },
+    
+    {
+      "name": "aquilo-thermometer",
+      "enabled": true
+    },
+    
+    {
+      "name": "biter-remover",
+      "enabled": true
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "ChangeInserterDropLane",
+      "enabled": true
+    },
+    
+    {
+      "name": "CharacterModHelper",
+      "enabled": true
+    },
+    
+    {
+      "name": "CircuitLaunchableRockets",
+      "enabled": true
+    },
+    
+    {
+      "name": "CleanFloor",
+      "enabled": true
+    },
+    
+    {
+      "name": "DiscoScience",
+      "enabled": true
+    },
+    
+    {
+      "name": "ElectricTrains",
+      "enabled": true
+    },
+    
+    {
+      "name": "FalloutPowerArmor",
+      "enabled": true
+    },
+    
+    {
+      "name": "faster-flame-updated",
+      "enabled": true
+    },
+    
+    {
+      "name": "fission-thruster",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Flow Control",
+      "enabled": true
+    },
+    
+    {
+      "name": "FluidMustFlow",
+      "enabled": true
+    },
+    
+    {
+      "name": "fusion-thruster",
+      "enabled": true
+    },
+    
+    {
+      "name": "gun-range-visualizer",
+      "enabled": true
+    },
+    
+    {
+      "name": "hd_planets",
+      "enabled": true
+    },
+    
+    {
+      "name": "kj_b2",
+      "enabled": true
+    },
+    
+    {
+      "name": "kj_fuel",
+      "enabled": true
+    },
+    
+    {
+      "name": "kj_vehicles",
+      "enabled": true
+    },
+    
+    {
+      "name": "Krastorio2-spaced-out",
+      "enabled": true
+    },
+    
+    {
+      "name": "Krastorio2Assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "manual-inventory-sort",
+      "enabled": true
+    },
+    
+    {
+      "name": "no-spoilage",
+      "enabled": true
+    },
+    
+    {
+      "name": "Noxys_QuickerStumpFade",
+      "enabled": true
+    },
+    
+    {
+      "name": "Pi-C_lib",
+      "enabled": true
+    },
+    
+    {
+      "name": "PlanetsLib",
+      "enabled": true
+    },
+    
+    {
+      "name": "plasma-duct",
+      "enabled": true
+    },
+    
+    {
+      "name": "plasma-duct-tweak",
+      "enabled": true
+    },
+    
+    {
+      "name": "pump-with-adjustable-flow-rate",
+      "enabled": true
+    },
+    
+    {
+      "name": "RateCalculator",
+      "enabled": true
+    },
+    
+    {
+      "name": "RecipeBook",
+      "enabled": true
+    },
+    
+    {
+      "name": "spoiling-plant",
+      "enabled": true
+    },
+    
+    {
+      "name": "symmetric-thruster",
+      "enabled": true
+    },
+    
+    {
+      "name": "upcycler",
+      "enabled": true
+    },
+    
+    {
+      "name": "ups-fps",
+      "enabled": true
+    },
+    
+    {
+      "name": "VehicleSnap",
+      "enabled": true
+    },
+    
+    {
+      "name": "visible-planets",
+      "enabled": true
+    },
+    
+    {
+      "name": "waterfill-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "wret-beacon-rebalance-mod",
+      "enabled": true
+    }
+  ]
+}
